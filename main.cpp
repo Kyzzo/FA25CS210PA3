@@ -117,9 +117,11 @@ void printPath(pair<int,int> exitcell,
 // STUDENTS IMPLEMENT DFS HERE
 // Add arguments, return type, and logic
 // ----------------------------------------------------------
-// bool dfs(……) {
+ bool dfs(int ent_r, int ent_c, int exit_r, int exit_c, vector<vector<int>>& maze,
+vector<vector<bool>>& visited, vector<vector<int>>& parent_r,
+vector<vector<int>>& parent_c) {
 //     // Your code here
-// }
+ }
 
 
 // ----------------------------------------------------------
